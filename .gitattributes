@@ -1,0 +1,2 @@
+# Syntax highlighting for Apache config files on GitHub.
+*.conf linguist-language=ApacheConf
